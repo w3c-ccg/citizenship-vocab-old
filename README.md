@@ -1,1 +1,1 @@
-# citizenship_vocab
+# citizenship-vocab
